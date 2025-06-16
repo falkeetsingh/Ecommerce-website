@@ -66,7 +66,7 @@ npm install
 ```env
 NODE_ENV=development
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/comforty
+MONGO_URI=mongodb://localhost:27017/db
 JWT_SECRET=your_jwt_secret
 ```
 
