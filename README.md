@@ -135,40 +135,6 @@ GET /api/products/best-sellers
 - Get best-selling products
 ```
 
-## 📁 Project Structure
-
-```
-comforty-ecommerce/
-├── src/
-│   ├── Components/
-│   │   ├── Banner/
-│   │   ├── Brand/
-│   │   ├── Categories/
-│   │   ├── Footer/
-│   │   ├── Navbar/
-│   │   ├── Product/
-│   │   └── SectionTitle/
-│   ├── Pages/
-│   │   ├── Auth/
-│   │   │   ├── Login/
-│   │   │   └── Register/
-│   │   ├── Home/
-│   │   └── Error/
-│   ├── store/
-│   │   ├── slices/
-│   │   └── store.js
-│   ├── config/
-│   │   └── axios.js
-│   └── MainLayout/
-├── backend/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── config/
-└── public/
-```
-
 ## 🔒 Authentication Flow
 
 1. **Registration**
@@ -214,28 +180,6 @@ comforty-ecommerce/
   - Newsletter subscription
   - Social media links
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- Your Name - Initial work
-
-## 🙏 Acknowledgments
-
-- React.js Documentation
-- Tailwind CSS Documentation
-- MongoDB Documentation
-- Express.js Documentation
 
 
 
