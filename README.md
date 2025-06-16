@@ -1,4 +1,4 @@
-# Comforty E-commerce Website
+# E-commerce Website
 
 A modern e-commerce platform built with React, Node.js, and MongoDB, focusing on furniture and home decor products.
 
@@ -47,8 +47,8 @@ A modern e-commerce platform built with React, Node.js, and MongoDB, focusing on
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/comforty-ecommerce.git
-cd comforty-ecommerce
+git clone https://github.com/yourusername/Ecommerce-website.git
+cd Ecommerce-website
 ```
 
 2. Install frontend dependencies:
